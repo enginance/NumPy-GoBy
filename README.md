@@ -20,10 +20,7 @@ NumPy tutorial. If you like me come from MatLab you will find this summary reall
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
 
 ```bash
-pip install pandas
 pip install numpy
-pip install pandas-datareader
-pip install matplotlib
 ```
 
 ## Usage
