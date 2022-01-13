@@ -21,6 +21,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the fol
 
 ```bash
 pip install numpy
+import numpy as np
 ```
 
 ## Usage
