@@ -15,6 +15,16 @@
 
 NumPy tutorial. If you come from MatLab you will find this tutorial really useful.
 
+
+
+## NumPy array
+
+<p align="center">
+    <img width=60% src="https://github.com/enginance/NumPy-GoBy/blob/main/images/numpy_indexing.png">
+</p>
+
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
